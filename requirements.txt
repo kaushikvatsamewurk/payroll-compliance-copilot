@@ -1,8 +1,10 @@
 fastapi
 uvicorn
+streamlit
+requests
+python-dotenv
 langchain
+langchain-community
 langchain-openai
 faiss-cpu
-pypdf
-python-dotenv
-streamlit
+openai
